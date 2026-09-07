@@ -14,7 +14,11 @@ if spam_amount > 0:
 viking_song = "Spam " * spam_amount
 print(viking_song)
 
+# --- Run Command ---
+# python3 01-python/01_hello_basics.py
+
 # --- Output ---
 # 0
 # But I don't want ANY spam!
 # Spam Spam Spam Spam 
+ 

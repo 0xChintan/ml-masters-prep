@@ -37,7 +37,7 @@ help(print)
 # ------------------------------------------------------------------
 # 4. Defining Functions (def)
 # ------------------------------------------------------------------
-# Built-in functions are great, but we can only get so far with them
+# Built-in functions are great, ut we can only get so far with them
 # before we need to start defining our own functions using 'def':
 
 def least_difference(a, b, c):
@@ -108,7 +108,11 @@ def mod_5(x):
 # 14 % 5 = 4 (Biggest remainder!)
 print(max(100, 51, 14, key=mod_5))  # 14
 
+# --- Run Command ---
+# python3 01-python/03_functions_help.py
+
 # --- Output ---
+
 # Help on built-in function round in module builtins:
 # 
 # round(number, ndigits=None)

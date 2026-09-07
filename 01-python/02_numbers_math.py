@@ -95,7 +95,11 @@ print(int('807') + 1)  # Converts text '807' to int -> 808
 print(float(10))       # Converts int to decimal -> 10.0
 print(float('3.14'))   # Converts text '3.14' to decimal -> 3.14
 
+# --- Run Command ---
+# python3 01-python/02_numbers_math.py
+
 # --- Output ---
+
 # <class 'int'>
 # <class 'float'>
 # Basic Arithmetic Examples:
